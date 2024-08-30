@@ -10,3 +10,4 @@ The folder includes:
 - rom.nes and rom.sha help with importing the ROM and allowing stable retro to access it.
 
 ### Galaga Performance
+![til](./galagaplay.gif)
